@@ -8,7 +8,7 @@ sudo updatedb
 printf "\033[0;33m ###################OpTermux########################\n"
 printf "\033[0;33m # success!!Welcome to OpTermux.                   #\n" 
 printf "\033[0;33m # Subscribe us https://youtube.com/channel/UCFk6B #\n"
-                   #                     dLdX--mCwhdvWfwgEg
+                                         dLdX--mCwhdvWfwgEg
 printf "\033[0;33m ####################OpTermux#######################\n"
 printf "\033[0;32m passwd-kex  # to set or change vnc passwd\n"
 printf "\033[0;32m start-kex   # to start vnc server\n"
